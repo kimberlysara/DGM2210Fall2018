@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Watering Can 0.ma
-//Last modified: Tue, Aug 28, 2018 07:21:56 PM
+//Last modified: Tue, Aug 28, 2018 07:22:53 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "07DEE243-478A-8B9E-D475-FCA0BD9B9C59";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -0.96306794393376771 -0.035786692450937907 13.129880598290354 ;
-	setAttr ".r" -type "double3" -8.7383527278747319 -727.4000000000018 -6.0136265467406564e-16 ;
+	setAttr ".t" -type "double3" -0.54951183757987798 1.2557863033932488 15.986682333901895 ;
+	setAttr ".r" -type "double3" -11.738352727875059 -724.59999999999684 9.9713523173431897e-17 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "A58BE7E4-42EE-BD8E-7A3E-B284041922C1";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 13.282932841866216;
+	setAttr ".coi" 16.267718254492785;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
