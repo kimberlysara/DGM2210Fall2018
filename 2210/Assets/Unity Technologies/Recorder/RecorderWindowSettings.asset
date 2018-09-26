@@ -26,26 +26,26 @@ MonoBehaviour:
   m_AssetID: c855e5b7ea8cf974f97189519511bcad
   m_CaptureEveryNthFrame: 1
   m_FrameRateMode: 1
-  m_FrameRate: 30
-  m_FrameRateExact: 1
+  m_FrameRate: 24
+  m_FrameRateExact: 8
   m_StartFrame: 0
-  m_EndFrame: 10
+  m_EndFrame: 392
   m_StartTime: 0
   m_EndTime: 1
-  m_DurationMode: 0
+  m_DurationMode: 2
   m_SynchFrameRate: 1
   m_BaseFileName:
     m_Pattern: image_<0000>.<ext>
   m_DestinationPath:
-    m_root: 1
-    m_leaf: Recordings
+    m_root: 0
+    m_leaf: C:/Users/10808778/Documents/pics
   m_InputsSettings:
     m_InputsSettingsAssets:
     - {fileID: 114844569714562124}
     ownerRecorderSettingsAssetId: c855e5b7ea8cf974f97189519511bcad
   m_RecorderTypeName: UnityEngine.Recorder.ImageRecorder, Assembly-CSharp, Version=0.0.0.0,
     Culture=neutral, PublicKeyToken=null
-  m_OutputFormat: 1
+  m_OutputFormat: 0
 --- !u!114 &114844569714562124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59,7 +59,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_DisplayName: Pixels
   m_Id: 4dc64488-d43d-44b7-b62d-95f6f75bc717
-  m_OutputSize: 0
+  m_OutputSize: 720
   m_AspectRatio: 0
   m_ForceEvenSize: 0
   source: 1
