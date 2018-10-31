@@ -164,6 +164,7 @@ ModelImporter:
     100316: transform312
     100318: transform313
     100320: transform314
+    100322: pCylinder476
     400000: back
     400002: bottom
     400004: //RootNode
@@ -325,6 +326,7 @@ ModelImporter:
     400316: transform312
     400318: transform313
     400320: transform314
+    400322: pCylinder476
     2000000: back
     2000002: bottom
     2000004: left
@@ -376,6 +378,7 @@ ModelImporter:
     2300026: pCube75
     2300028: pCylinder475
     2300030: pTorus1
+    2300032: pCylinder476
     3300000: pasted__polySurface12
     3300002: pasted__polySurface15
     3300004: pasted__polySurface317
@@ -392,6 +395,7 @@ ModelImporter:
     3300026: pCube75
     3300028: pCylinder475
     3300030: pTorus1
+    3300032: pCylinder476
     4300000: pTorus1
     4300002: pCube75
     4300004: pCylinder475
@@ -408,6 +412,7 @@ ModelImporter:
     4300026: pasted__polySurface354
     4300028: pasted__polySurface344
     4300030: pasted__polySurface317
+    4300032: pCylinder476
     7400000: Take 001
     9500000: //RootNode
     2186277476908879412: ImportLogs
